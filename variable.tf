@@ -5,7 +5,7 @@ variable "image"{
 }
 variable "hw"{
   type= string
-  default = "t2.nano"
+  default = "t2.micro"
   description="us-east-1 hw ec2 type"
 }
 
